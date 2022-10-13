@@ -1,0 +1,109 @@
+.home-icon{
+    font-size: 25px;
+}
+
+.greater-than{
+    margin-left: 10px;
+    color: gray;
+}
+
+.head{
+    margin-left: 2px;
+    font-size: 17px;
+    color: gray;
+}
+.red{
+    color: red;
+}
+
+.gucci-img{
+    width: 800px;
+    margin-left: 37px;
+    display: inline;
+}
+
+.div-head{
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+
+.desc{
+    margin-left: 900px;
+    margin-top: -600px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.old-price{
+    margin-left: 900px;
+  text-decoration: line-through;
+  color: gray;
+   text-decoration-thickness: 1px;
+   margin-top: -20px;
+   font-size: 15px;
+}
+
+.new-price{
+    margin-left: 900px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.maker{
+    margin-left: 900px;
+    color: rgb(128, 127, 127);
+    margin-top: -20px;
+}
+
+.red2{
+    color: rgb(153, 6, 6);
+}
+
+.articul{
+    color: gray;
+    margin-left: 900px;
+    margin-top: -10px;
+}
+
+
+.cart{
+    margin-left: 900px;
+    color: gray;
+    margin-top: -10px;
+   
+}
+
+.sizes{
+    margin-left: 900px;
+    font-size: 27px;
+}
+
+.button-size1{
+    margin-left: 900px;
+    margin-right: 5px;
+    background-color: white;
+    
+    border: 1px solid gray;
+    padding: 5px 8px 5px 8px;
+   
+}
+
+.button-size2{
+   
+    background-color: white;
+    
+    border: 1px solid gray;
+    padding: 5px 8px 5px 8px;
+    margin-bottom: 10px;
+}
+
+.size-box{
+    margin-left: 900px;
+    border: none;
+    background-color: rgb(34, 33, 33);
+    color: white;
+    border-radius: 3px;
+    padding: 15px 18px 15px 18px;
+    font-weight: bold;
+
+}
